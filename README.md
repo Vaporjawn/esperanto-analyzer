@@ -34,7 +34,7 @@ Modern TypeScript morphological analyzer for Esperanto text with comprehensive p
 ### Installation
 
 ```bash
-npm install @vaporjawn/esperanto-analyzer
+npm install esperanto-analyzer
 ```
 
 ### Basic Usage
